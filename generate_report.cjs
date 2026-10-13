@@ -451,7 +451,7 @@ const htmlContent = `<!DOCTYPE html>
             </div>
             <div class="meta-item">
               <span class="meta-label">Matrícula</span>
-              <span class="meta-val">[Inserir Matrícula]</span>
+              <span class="meta-val">847972</span>
             </div>
             <div class="meta-item">
               <span class="meta-label">Disciplina</span>
